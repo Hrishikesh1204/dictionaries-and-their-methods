@@ -1,0 +1,4 @@
+keys=["name","age","course"]
+values=["Hrishi",19,"bcom"]
+student=dict(zip(keys,values))
+print(student)
