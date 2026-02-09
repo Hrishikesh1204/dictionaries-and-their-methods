@@ -1,0 +1,3 @@
+marks={"math":80,"science":90,"english":70}
+print("maximum:",max(marks.values()))
+print("minimum:",min(marks.values()))
